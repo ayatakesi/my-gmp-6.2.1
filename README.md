@@ -2,7 +2,7 @@
 GNU Emacs30.0.50に含まれる`java/INSTALL`にしたがって取得したlibgmpモジュール(gnutlsの依存モジュール)のレポジトリ。
 
 # 作成した手順
-1. [Android ports for GNU Emacs](https://sourceforge.net/projects/android-ports-for-gnu-emacs/files/gmp-6.2.1-emacs.tgz)を取得して展開
+1. [Android ports for GNU Emacsのソース書庫](https://sourceforge.net/projects/android-ports-for-gnu-emacs/files/gmp-6.2.1-emacs.tgz)を取得して展開
 
 ```bash
 $: wget https://sourceforge.net/projects/android-ports-for-gnu-emacs/files/gmp-6.2.1-emacs.tgz
